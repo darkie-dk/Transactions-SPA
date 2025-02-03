@@ -1,0 +1,28 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Freelancing",
+      "type": "income",
+      "category": "service",
+      "price": 1500,
+      "createdAt": "2025-01-22T02:51:01.282Z"
+    },
+    {
+      "id": 2,
+      "description": "Salary",
+      "type": "income",
+      "category": "service",
+      "price": 800,
+      "createdAt": "2025-01-22T02:51:01.282Z"
+    },
+    {
+      "id": 3,
+      "description": "Gift for Maria",
+      "type": "outcome",
+      "category": "gift",
+      "price": 250,
+      "createdAt": "2025-01-22T02:51:01.282Z"
+    }
+  ]
+}

@@ -23,6 +23,14 @@
       "category": "gift",
       "price": 250,
       "createdAt": "2025-01-22T02:51:01.282Z"
+    },
+    {
+      "description": "Compras do mês",
+      "price": 800,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2025-02-05T15:32:00.773Z",
+      "id": 4
     }
   ]
 }
